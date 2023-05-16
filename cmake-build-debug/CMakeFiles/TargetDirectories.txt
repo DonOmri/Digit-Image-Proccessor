@@ -1,3 +1,0 @@
-/Users/omriaviv/CLionProjects/ex4-omriaviv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/omriaviv/CLionProjects/ex4-omriaviv/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/omriaviv/CLionProjects/ex4-omriaviv/cmake-build-debug/CMakeFiles/ex4_omriaviv.dir
